@@ -65,8 +65,8 @@
   
 ## 6. satbeam网站里的EIRP等高线都是图片，并不是想象中的svg画的线
   https://satbeams.com/footprints
-##7.index.e5e2695f.js文件分析
-
+7.index.e5e2695f.js文件分析
+#
 <!-- 1.React文件引用  @license React v17.0.2  构建界面的javascript库-->
 react-jsx-runtime.production.min.js  
 react.production.min.js
